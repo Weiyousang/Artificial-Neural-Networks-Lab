@@ -23,4 +23,4 @@
 
 ## 🛠️ Tools & Technologies (開發工具與技術)
 * **核心理論**: 倒傳遞學習、函數近似、聯想記憶、神經網路優化演算法
-* 使用的程式語言或軟體:MATLAB, Python
+* 使用的程式語言: MATLAB, Python
