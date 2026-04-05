@@ -1,4 +1,4 @@
-# 🧠 Neural Network Models & Simulations | 類神經網路實作與模擬
+# Neural Network Models & Simulations | 類神經網路實作與模擬
 
 ## 📝 About The Project (關於專案)
 本專案收錄了類神經網路 (Artificial Neural Networks, ANN) 相關的演算法實作與模擬分析報告。內容主要探討不同神經網路架構的數學模型、學習機制及其應用領域，包含前饋型網路 (Feedforward Neural Network) 與回饋型網路 (Recurrent Neural Network) 的分析與測試。
